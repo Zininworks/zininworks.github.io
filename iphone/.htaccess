@@ -1,0 +1,5 @@
+<Files ~ "c.manifest">
+ForceType text/cache-manifest
+</Files>
+AddType text/cache-manifest manifest
+AddType text/cache-manifest .manifest
