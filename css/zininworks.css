@@ -122,11 +122,15 @@ footer a:hover{
 }
 
 .works a{
-    color: #3c4043;
+    color: #5ba4e5;
 }
 
 .works a:hover{
     color: #5ba4e5;
+}
+
+.works .works-title{
+    color: #3c4043;
 }
 
 .works .icon{
@@ -135,6 +139,7 @@ footer a:hover{
     float: left;
     margin-top: 2px;
     margin-bottom: 0px;
+    border-radius: 20px;
 }
 
 .works .icon:hover{
