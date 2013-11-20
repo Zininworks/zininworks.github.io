@@ -60,7 +60,7 @@ section article{
 
 footer{
     background-color: #18191b;
-    padding: 90px 0 70px;
+    padding: 50px 0 50px;
     margin-top: 60px;
     color: #4d5356;
     font-weight: 300;
@@ -214,6 +214,6 @@ footer a:hover{
     }
 
     .member div{
-        padding-left: 160px;
+        padding-left: 150px;
     }
 }
