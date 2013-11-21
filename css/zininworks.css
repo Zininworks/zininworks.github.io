@@ -212,7 +212,7 @@ footer a:hover{
         font-size: 15px;
     }
 
-    header h1{
+    header{
         text-align: center;
     }
 
@@ -222,6 +222,14 @@ footer a:hover{
 
     article > h2, article > h3{
         text-align: center;
+    }
+
+    .span-block{
+        display: block;
+    }
+
+    .span-hidden{
+        display: none;
     }
 
     .works a{
