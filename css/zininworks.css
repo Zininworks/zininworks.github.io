@@ -163,6 +163,14 @@ footer a:hover{
     clear: both;
 }
 
+.works .appstore-banner{
+    text-align: center;
+}
+
+.works .appstore-banner img{
+    width: 200px;
+}
+
 @media (max-width: 700px) {
     html{
         font-size: 16px;
@@ -210,6 +218,14 @@ footer a:hover{
 @media (max-width: 500px) {
     html{
         font-size: 15px;
+    }
+
+    section article{
+        margin-top: 50px;
+    }
+
+    .works > div{
+        margin-bottom: 3.0em;
     }
 
     .member img{
