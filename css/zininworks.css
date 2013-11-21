@@ -140,12 +140,12 @@ footer a:hover{
     margin-top: 2px;
     margin-bottom: 0px;
     border-radius: 20px;
+
 }
 
 .works .icon:hover{
     margin-top: 0px;
     margin-bottom: 2px;
-    display: block;
 }
 
 .works > div > p {
@@ -189,14 +189,6 @@ footer a:hover{
         margin-left: 0;
         width: auto;
     }
-
-    .works .icon:hover{
-        padding-bottom: 5px;
-        display: block;
-        } > p {
-        width: 100%;
-        margin-left: 0;
-    }
 }
 
 @media (max-width: 600px) {
@@ -220,12 +212,21 @@ footer a:hover{
         font-size: 15px;
     }
 
+    header h1{
+        text-align: center;
+    }
+
     section article{
         margin-top: 50px;
     }
 
-    .works > div{
-        margin-bottom: 3.0em;
+    article > h2, article > h3{
+        text-align: center;
+    }
+
+    .works a{
+        display: block;
+        text-align: center;
     }
 
     .member img{
@@ -236,5 +237,9 @@ footer a:hover{
 
     .member div{
         padding-left: 150px;
+    }
+
+    footer {
+        text-align: center;
     }
 }
