@@ -171,14 +171,14 @@ footer a:hover{
     width: 200px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 720px) {
     html{
         font-size: 16px;
     }
 
     .main{
         width: auto;
-        margin: 10px 10px;
+        margin: 0 30px;
     }
 
     .works .icon{
@@ -192,22 +192,8 @@ footer a:hover{
 }
 
 @media (max-width: 600px) {
-    .team .member{
-        width: auto;
-    }
+    /* iphone landscape & portrait */
 
-    .member img{
-        float: left;
-        width: 150px;
-        border-radius: 20px;
-    }
-
-    .member div{
-        padding-left: 200px;
-    }
-}
-
-@media (max-width: 500px) {
     html{
         font-size: 15px;
     }
@@ -224,11 +210,15 @@ footer a:hover{
         text-align: center;
     }
 
-    .span-block{
+    .main{
+        margin: 0 10px;
+    }
+
+    .xs-block{
         display: block;
     }
 
-    .span-hidden{
+    .xs-hidden{
         display: none;
     }
 
@@ -237,14 +227,19 @@ footer a:hover{
         text-align: center;
     }
 
+    .team .member{
+        width: 290px;
+        margin: 0 auto;
+    }
+
     .member img{
         float: left;
-        width: 130px;
+        width: 120px;
         border-radius: 20px;
     }
 
     .member div{
-        padding-left: 150px;
+        padding-left: 140px;
     }
 
     footer {
