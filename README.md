@@ -1,4 +1,3 @@
-zininworks
-==========
+# Zininworks
 
-zininworks .com
+- website: zininworks.com
