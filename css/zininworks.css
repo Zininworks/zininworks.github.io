@@ -5,6 +5,7 @@ html{
     line-height: 1.8;
     color: #3c4043;
     word-wrap: break-word;
+    text-align: justify;
 }
 
 a{
