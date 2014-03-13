@@ -205,6 +205,8 @@ footer a:hover{
 
     section article{
         margin-top: 50px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     article > h2, article > h3{
