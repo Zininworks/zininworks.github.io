@@ -19,7 +19,6 @@ function transformToAssocArray( prmstr ) {
 var params = getSearchParameters();
 var featureItems = [];
 
-
 switch(params.id) {
     // Bach Violin sonatas and partitas
     case "440156059": 
@@ -27,7 +26,7 @@ switch(params.id) {
         break;
     // Bach Cello Suites
     case "468615677":
-        featureItems.push("440156059", "499818071")
+        featureItems.push("440156059", "499818071");
         break;
     // Bach Goldberg Variations
     case "488618314":
@@ -90,10 +89,6 @@ switch(params.id) {
         featureItems.push("577670301", "477067841");
         break;
 }
-
-console.log(featureItems.length);
-
-
 
 for (var i = 0; i < featureItems.length; i++){
     $("#featured > ul").append($("#" + featureItems[i]).clone());
