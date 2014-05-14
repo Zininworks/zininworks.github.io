@@ -1,7 +1,7 @@
 {
     "metaData": {
-        "lastUpdated": "2014-05-09",
-        "versionNumber": 1    
+        "lastUpdated": "2014-05-14",
+        "versionNumber": 1
     },
     "allApps": [
         {
@@ -16,7 +16,7 @@
             "appid": "440156059",
             "title": "Bach Violin sonatas and partitas",
             "artist": "Yehudi Menuhin",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-bachv114.png",
+            "iconSrc": "http://zininworks.com/img/440156059.png",
             "storeLink": "http://itunes.apple.com/us/app/bach-violin-sonatas-partitas/id440156059?mt=8",
             "featuredItems": ["468615677", "549746311"]
         },
@@ -24,7 +24,7 @@
             "appid": "468615677",
             "title": "Bach Cello Suites",
             "artist": "Pablo Casals",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-bachcello100.png",
+            "iconSrc": "http://zininworks.com/img/468615677.png",
             "storeLink": "http://itunes.apple.com/us/app/bach-cello-suites-syncscore/id468615677?mt=8",
             "featuredItems": ["440156059", "499818071"]
         },
@@ -32,7 +32,7 @@
             "appid": "488618314",
             "title": "Bach Goldberg Variations",
             "artist": "Glenn Gould",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-bachgleen100.png",
+            "iconSrc": "http://zininworks.com/img/488618314.png",
             "storeLink": "http://itunes.apple.com/us/app/bach-goldberg-variations-syncscore/id488618314?mt=8",
             "featuredItems": ["520091031", "529056912"]
         },
@@ -40,7 +40,7 @@
             "appid": "520091031",
             "title": "Bach Partitas for Keyboard",
             "artist": "Rosalyn Tureck",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-bachP140.png",
+            "iconSrc": "http://zininworks.com/img/520091031.png",
             "storeLink": "http://itunes.apple.com/us/app/bach-partitas-syncscore/id520091031?mt=8",
             "featuredItems": ["488618314", "455563613"]
         },
@@ -48,7 +48,7 @@
             "appid": "529056912",
             "title": "Beethoven Complete Piano Sonatas",
             "artist": "Wilhelm Kempff",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-beeP140.png",
+            "iconSrc": "http://zininworks.com/img/529056912.png",
             "storeLink": "http://itunes.apple.com/us/app/beethoven-complete-piano-sonatas/id529056912?mt=8",
             "featuredItems": ["549746311", "496176634"]
         },
@@ -64,7 +64,7 @@
             "appid": "499818071",
             "title": "Beethoven Cello Sonatas",
             "artist": "Pierre Fournier",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-beethoven114.png",
+            "iconSrc": "http://zininworks.com/img/499818071.png",
             "storeLink": "http://itunes.apple.com/us/app/beethoven-cello-sonatas-syncscore/id499818071?mt=8",
             "featuredItems": ["529056912", "590206081"]
         },
@@ -72,7 +72,7 @@
             "appid": "477067841",
             "title": "Brahms Violin Sonatas",
             "artist": "Leonid Kogan",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-brahms114.png",
+            "iconSrc": "http://zininworks.com/img/477067841.png",
             "storeLink": "http://itunes.apple.com/us/app/brahms-violin-sonatas-syncscore/id477067841?mt=8",
             "featuredItems": ["590206081", "440156059"]
         },
@@ -80,7 +80,7 @@
             "appid": "590206081",
             "title": "Brahms Cello Sonatas",
             "artist": "Pierre Fournier",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-brahmsC200.png",
+            "iconSrc": "http://zininworks.com/img/590206081.png",
             "storeLink": "https://itunes.apple.com/us/app/brahms-cello-sonatas-syncscore/id590206081?ls=1&mt=8",
             "featuredItems": ["477067841", "468615677"]
         },
@@ -88,7 +88,7 @@
             "appid": "449119069",
             "title": "Chopin Waltz, Preludes and Impromptus",
             "artist": "Arthur Rubinstein",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-chopin1.png",
+            "iconSrc": "http://zininworks.com/img/449119069.png",
             "storeLink": "https://itunes.apple.com/us/app/chopin-works-syncscore/id449119069?ls=1&mt=8",
             "featuredItems": ["577670301", "529056912"]
         },
@@ -96,7 +96,7 @@
             "appid": "577670301",
             "title": "Chopin Ballades & Scherzos",
             "artist": "Arthur Rubinstein",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-chopinB200.png",
+            "iconSrc": "http://zininworks.com/img/577670301.png",
             "storeLink": "https://itunes.apple.com/us/app/chopin-ballades-scherzos-syncscore/id577670301?mt=8",
             "featuredItems": ["576215187", "487097767"]
         },
@@ -104,7 +104,7 @@
             "appid": "576215187",
             "title": "Chopin Nocturnes",
             "artist": "Arthur Rubinstein",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-chopinN200.png",
+            "iconSrc": "http://zininworks.com/img/576215187.png",
             "storeLink": "https://itunes.apple.com/us/app/chopin-nocturnes-syncscore/id576215187?ls=1&mt=8",
             "featuredItems": ["495443185", "488618314"]
         },
@@ -112,7 +112,7 @@
             "appid": "495443185",
             "title": "Chopin Etudes",
             "artist": "Claudio Arrau",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-chopinEtude114.png",
+            "iconSrc": "http://zininworks.com/img/495443185.png",
             "storeLink": "http://itunes.apple.com/us/app/chopin-etudes-syncscore/id495443185?mt=8",
             "featuredItems": ["449119069", "529056912"]
         },
@@ -120,7 +120,7 @@
             "appid": "458293237",
             "title": "Mozart Eine kleine Nachtmusik",
             "artist": "Karl Bohm, Berliner Philharmoniker",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-mozartEine.png",
+            "iconSrc": "http://zininworks.com/img/458293237.png",
             "storeLink": "http://itunes.apple.com/us/app/syncscore-mozart-eine-kleine/id458293237?mt=8",
             "featuredItems": ["496176634", "529056912"]
         },
@@ -128,7 +128,7 @@
             "appid": "496176634",
             "title": "Mozart Variations for piano",
             "artist": "Walter Gieseking",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-mozartVar114.png",
+            "iconSrc": "http://zininworks.com/img/496176634.png",
             "storeLink": "http://itunes.apple.com/us/app/mozart-variations-for-piano/id496176634?mt=8",
             "featuredItems": ["458293237", "455563613"]
         },
@@ -136,7 +136,7 @@
             "appid": "455563613",
             "title": "Mussorgsky Pictures at an Exhibition",
             "artist": "Sviatoslav Richter",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-musso.png",
+            "iconSrc": "http://zininworks.com/img/455563613.png",
             "storeLink": "http://itunes.apple.com/us/app/syncscore-pictures-at-exhibition/id455563613?mt=8",
             "featuredItems": ["529056912", "488618314"]
         },
@@ -144,7 +144,7 @@
             "appid": "487097767",
             "title": "Schubert Winterreise",
             "artist": "Dietrich Fischer-Dieskau",
-            "iconSrc": "http://zininworks.com/img/app-syncscore-schubertWinter100.png",
+            "iconSrc": "http://zininworks.com/img/487097767.png",
             "storeLink": "http://itunes.apple.com/us/app/schubert-winterreise-syncscore/id487097767?mt=8",
             "featuredItems": ["577670301", "477067841"]
         }
