@@ -146,8 +146,15 @@
             "artist": "디트리히 피셔디스카우",
             "iconSrc": "http://zininworks.com/img/487097767.png",
             "storeLink": "http://itunes.apple.com/us/app/schubert-winterreise-syncscore/id487097767?mt=8",
-            "featuredItems": ["577670301", "477067841"]
+            "featuredItems": ["888974275", "477067841"]
+        },
+        {
+            "appid": "888974275",
+            "title": "슈베르트 현악 사중주 전집",
+            "artist": "빈 콘체르트하우스 쿼텟",
+            "iconSrc": "http://zininworks.com/img/888974275.png",
+            "storeLink": "https://itunes.apple.com/us/app/schubert-string-quartets-syncscore/id888974275?ls=1&mt=8",
+            "featuredItems": ["487097767", "477067841"]
         }
-
     ]
 }

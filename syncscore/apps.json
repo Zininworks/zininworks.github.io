@@ -1,6 +1,6 @@
 {
     "metaData": {
-        "lastUpdated": "2014-05-14",
+        "lastUpdated": "2014-06-17",
         "versionNumber": 1
     },
     "allApps": [
@@ -146,8 +146,15 @@
             "artist": "Dietrich Fischer-Dieskau",
             "iconSrc": "http://zininworks.com/img/487097767.png",
             "storeLink": "http://itunes.apple.com/us/app/schubert-winterreise-syncscore/id487097767?mt=8",
-            "featuredItems": ["577670301", "477067841"]
+            "featuredItems": ["888974275", "477067841"]
+        },
+        {
+            "appid": "888974275",
+            "title": "Schubert Complete String Quartets",
+            "artist": "Vienna Konzerthaus Quartet",
+            "iconSrc": "http://zininworks.com/img/888974275.png",
+            "storeLink": "https://itunes.apple.com/us/app/schubert-string-quartets-syncscore/id888974275?ls=1&mt=8",
+            "featuredItems": ["487097767", "477067841"]
         }
-
     ]
 }
