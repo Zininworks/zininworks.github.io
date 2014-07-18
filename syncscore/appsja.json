@@ -1,6 +1,6 @@
 {
     "metaData": {
-        "lastUpdated": "2014-06-17",
+        "lastUpdated": "2014-07-17",
         "versionNumber": 1
     },
     "allApps": [
@@ -51,6 +51,14 @@
             "iconSrc": "http://zininworks.com/img/529056912.png",
             "storeLink": "http://itunes.apple.com/us/app/beethoven-complete-piano-sonatas/id529056912?mt=8",
             "featuredItems": ["549746311", "496176634"]
+        },
+        {
+            "appid": "898150397",
+            "title": "ベートーヴェン 弦楽四重奏曲",
+            "artist": "アマデウス弦楽四重奏団",
+            "iconSrc": "http://zininworks.com/img/898150397.png",
+            "storeLink": "https://itunes.apple.com/us/app/beethoven-complete-string/id898150397?ls=1&mt=8",
+            "featuredItems": ["468615677", "529056912"]
         },
         {
             "appid": "549746311",

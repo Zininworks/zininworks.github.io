@@ -1,6 +1,6 @@
 {
     "metaData": {
-        "lastUpdated": "2014-05-14",
+        "lastUpdated": "2014-07-17",
         "versionNumber": 1
     },
     "allApps": [
@@ -46,15 +46,23 @@
         },
         {
             "appid": "529056912",
-            "title": "베토벤 피아노 소나타",
+            "title": "베토벤 피아노 소나타 전집",
             "artist": "빌헬름 켐프",
             "iconSrc": "http://zininworks.com/img/529056912.png",
             "storeLink": "http://itunes.apple.com/us/app/beethoven-complete-piano-sonatas/id529056912?mt=8",
             "featuredItems": ["549746311", "496176634"]
         },
         {
+            "appid": "898150397",
+            "title": "베토벤 현악 사중주 전집",
+            "artist": "아마데우스 쿼텟",
+            "iconSrc": "http://zininworks.com/img/898150397.png",
+            "storeLink": "https://itunes.apple.com/us/app/beethoven-complete-string/id898150397?ls=1&mt=8",
+            "featuredItems": ["468615677", "529056912"]
+        },
+        {
             "appid": "549746311",
-            "title": "베토벤 바이올린 소나타 전곡",
+            "title": "베토벤 바이올린 소나타",
             "artist": "야사 하이페츠",
             "iconSrc": "http://zininworks.com/img/549746311.png",
             "storeLink": "http://itunes.apple.com/us/app/beethoven-violin-sonatas-syncscore/id549746311?ls=1&mt=8",
