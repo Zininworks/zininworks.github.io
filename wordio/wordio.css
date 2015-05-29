@@ -111,9 +111,9 @@ img.store {
 }
 
 p.deco {
-	font-size: 0.4em;
+	font-size: 0.7em;
 	margin-top: 0px;
-	margin-bottom: 200px;
+	margin-bottom: 150px;
 }
 a.deco {
 	font-size: 1.3em;
@@ -151,9 +151,6 @@ img.bigHero {
 		
 	}
 
-	p.deco {
-		font-size: 0.6em;
-	}
 	div.video {
 		margin: 0 auto;
 	}
