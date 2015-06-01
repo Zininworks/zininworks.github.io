@@ -58,7 +58,7 @@ img.bigHero {
 }
 
 section {
-	margin: 60px 0;
+	margin: 40px 0;
 }
 
 section h3 {
@@ -129,6 +129,12 @@ img.bigHero {
 .copy {
 	font-size: 0.8em;
 }
+
+section.watch img {
+	max-width: 292px;
+	margin: 1em auto;
+}
+
 @media screen and (min-width: 48em) {
 	.background {
 		min-height: 535px;
