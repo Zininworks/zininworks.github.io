@@ -23,7 +23,8 @@
 	
 	<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-mixpanel.init("10ab288c35c1790cf3c4423973e80dce");</script><!-- end Mixpanel -->
+mixpanel.init("10ab288c35c1790cf3c4423973e80dce");
+</script><!-- end Mixpanel -->
 </head>
 
 <body onload="mixpanel.track('page viewed', { 'page name' : document.title, 'url' : window.location.pathname });">
@@ -31,7 +32,8 @@ mixpanel.init("10ab288c35c1790cf3c4423973e80dce");</script><!-- end Mixpanel -->
 	<div class="contents">
 		<header class="main">
 		    <h1><a href="/wordio">Wordio</a></h1>
-		    <h2>Collect New Word and Learn</h2>
+		    <h2 class="en">Collect New Word and Learn</h2>
+		    <h2 class="ko">간편한 단어학습</h2>
 		    <img class="pure-img hero" src="http://d1ey85fpiuwu4f.cloudfront.net/web/mainImage@2x.jpg">
 		    <img class="pure-img bigHero" src="http://d1ey85fpiuwu4f.cloudfront.net/web/bigHero@2x.jpg">
 		</header>
@@ -45,11 +47,14 @@ mixpanel.init("10ab288c35c1790cf3c4423973e80dce");</script><!-- end Mixpanel -->
 		</section>
 		
 		<section class="about">
-			<h3>ABOUT</h3>
-			<p>Wordio is a simple and easy–to–use tool for collecting and learning words. Build your own vocabulary pack by adding a new word painlessly. Then, look it up on the fast and lightweight built–in dictionary with just a single tap. After you’ve learned the word, check it off to archive it. It is a very simple yet efficient way to improve your language skill.</p>
+			<h3 class="en">ABOUT</h3>
+			<h3 class="ko">뭐지요?</h3>
+			<p class="en">Wordio is a simple and easy–to–use tool for collecting and learning words. Build your own vocabulary pack by adding a new word painlessly. Then, look it up on the fast and lightweight built–in dictionary with just a single tap. After you’ve learned the word, check it off to archive it. It is a very simple yet effective way to improve your language skill.</p>
+			<p class="ko">Wordio는 간편하게 모르는 단어를 모으고, 배울 수 있는 앱입니다. 손쉽게 단어 팩을 직접 만들고, 모든 iPhone에 내장된 가볍고 빠른 사전으로 뜻을 찾아보세요. 모르는 단어를 배운 다음에는 배운 단어로 체크해서 보관하세요. 단어 공부를 위한 단순하지만 효과적인 방법입니다.</p>
 		</section>
 		<section class="features">
-			<h3>FEATURES</h3>
+			<h3 class="en">FEATURES</h3>
+			<h3 class="ko">기능</h3>
 			<div class="pure-g">
 				<div class="pure-u-1 pure-u-md-1-2">
 					<div class="paddedBox">
@@ -58,29 +63,37 @@ mixpanel.init("10ab288c35c1790cf3c4423973e80dce");</script><!-- end Mixpanel -->
 								<source src="http://d1ey85fpiuwu4f.cloudfront.net/web/AddNewWord@2x.mp4" type="video/mp4">
 							</video>
 						</div>
-					<h4>Add New Word without Pain.</h4>
-					<p>Copy a new word, swipe down, and tap. Add the word to your vocabulary pack directly, from anywhere using Wordio today widget.</p>
+					<h4 class="en">Add New Word without Pain.</h4>
+					<h4 class="ko">너무나 간편한 단어 추가.</h4>
+					<p class="en">Copy a new word, swipe down, and tap. Add the word to your vocabulary pack directly, from anywhere using Wordio today widget.</p>
+					<p class="ko">단어를 복사하고, 쓸어내리고, 탭하면, Wordio위젯을 이용해서 바로 단어팩에 단어가 추가됩니다.</p>
 					</div>
 				</div>
 				<div class="pure-u-1 pure-u-md-1-2">
 					<div class="paddedBox">
 						<img class="pure-img" src="http://d1ey85fpiuwu4f.cloudfront.net/web/LookUp@2x.jpg" alt="look up sceenshot of wordio">
-						<h4>Look It Up. Quickly.</h4>
-						<p>iOS built–in dictionary is simple and very fast. It also works offline. And supports multiple languages.</p>
+						<h4 class="en">Look It Up. Quickly.</h4>
+						<h4 class="ko">빠르게 사전 찾아보기.</h4>
+						<p class="en">iOS built–in dictionary is simple and very fast. It also works offline. And supports multiple languages.</p>
+						<p class="ko">iOS에 내장된 사전은 간결하고 빠릅니다. 인터넷 연결도 필요없죠. 여러 언어도 지원합니다.</p>
 					</div>
 				</div>
 				<div class="pure-u-1 pure-u-md-1-2">
 					<div class="paddedBox">
 						<img class="pure-img" src="http://d1ey85fpiuwu4f.cloudfront.net/web/PullToSpeak@2x.jpg" alt="pull to speak sceenshot of wordio">
-						<h4>Pull to Speak.</h4>
-						<p>Slide to hear what the word sounds like. Pull more to speak slowly.</p>
+						<h4 class="en">Pull to Speak.</h4>
+						<h4 class="ko">밀어서 발음듣기.</h4>
+						<p class="en">Slide to hear what the word sounds like. Pull more to speak slowly.</p>
+						<p class="ko">슬라이드해서 단어가 어떻게 발음되는지 들으세요. 너무 빨리 말하나요? 더 많이 당기면 천천히 발음합니다.</p>
 					</div>
 				</div>
 				<div class="pure-u-1 pure-u-md-1-2">
 					<div class="paddedBox">
 						<img class="pure-img" src="http://d1ey85fpiuwu4f.cloudfront.net/web/Sync@2x.jpg" alt="sync sceenshot of wordio">
-						<h4>iCloud Sync.</h4>
-						<p>Wordio keeps your word packs in sync across all your devices. Silent, swift, and smooth sync powered by CloudKit.</p>
+						<h4 class="en">iCloud Sync.</h4>
+						<h4 class="ko">iCloud 동기화.</h4>
+						<p class="en">Wordio keeps your word packs in sync across all your devices. Silent, swift, and smooth sync powered by CloudKit.</p>
+						<p class="ko">Wordio는 CloudKit을 이용하여 모든 단어팩과 그 내용을 모든 디바이스에 조용히, 빠르고, 부드럽게 동기화합니다.</p>
 					</div>
 				</div>				
 			</div>
@@ -95,19 +108,23 @@ mixpanel.init("10ab288c35c1790cf3c4423973e80dce");</script><!-- end Mixpanel -->
 				</div>
 				<div class="pure-u-1 pure-u-md-1-2">
 					<div class="paddedBox">
-						<h4>Glance New Words.</h4>
-						<p>Glance recently added words over and over, and remember them. Check it off as learned, speak it, or handoff definitions to iPhone.</p>
+						<h4 class="en">Glance New Words.</h4>
+						<h4 class="ko">단어 한눈에 보기.</h4>
+						<p class="en">Glance recently added words over and over, and remember them. Check it off as learned, speak it, or handoff definitions to iPhone.</p>
+						<p class="ko">한눈에 보기로 새로 추가된 단어를 자꾸만 확인하면 기억이 됩니다. 배운 단어로 체크하고, 발음을 듣고, iPhone으로 넘겨서 사전을 바로 찾아볼 수 있습니다.</p>
 					</div>
 				</div>
 			</div>
 		</section>
 		<div class="center">
-			<a class="deco" href="https://itunes.apple.com/us/app/wordio/id983910695?at=11lIqv&ct=wordioWeb">It’s only $10. Get It Now.</a>
+			<a class="deco en" href="https://itunes.apple.com/us/app/wordio/id983910695?at=11lIqv&ct=wordioWeb">It’s only $10. Get It Now.</a>
+			<a class="deco ko" href="https://itunes.apple.com/us/app/wordio/id983910695?at=11lIqv&ct=wordioWeb">단돈 $10입니다. 지금 다운로드하세요.</a>
 			<p class="deco">Universal App for iPhone, iPad, and Apple Watch</p>
 		</div>
 		<footer>
 		    <div class="main center">
-			    <p><a href="mailto:ideas@zininworks.com">Support</a></p>
+			    <p class="en"><a href="mailto:ideas@zininworks.com">Support</a></p>
+			    <p class="ko"><a href="mailto:ideas@zininworks.com">고객 지원</a></p>
 		        <p><a href="https://www.dropbox.com/sh/pou26uj2uek4egi/AADyicFZqOQAFou_sDWp6_TDa?dl=0">Press Kit</a></p>
 		        <span class="copy"> &copy; 2010 - <script>document.write(new Date().getFullYear())</script><noscript>2015</noscript> · <a href="http://zininworks.com">Zininworks</a></span>
 		    </div>
@@ -117,6 +134,30 @@ mixpanel.init("10ab288c35c1790cf3c4423973e80dce");</script><!-- end Mixpanel -->
 	<script type="text/javascript">
 	    mixpanel.track_links(".store a", "click appstore");
 	    mixpanel.track_links("a.deco", "bottom appstore click");
+	</script>
+	
+	<script type="text/javascript">    
+	    function hideEn() {
+		    var ens = document.getElementsByClassName("en");
+		    for (i = 0; i < ens.length; i++) {
+				ens[i].style.display = "none";
+		    }
+	    }
+	    
+	    function hideKo() {
+		    var kos = document.getElementsByClassName("ko");
+		    for (i = 0; i < kos.length; i++) {
+				kos[i].style.display = "none";
+		    }
+	    }
+	    
+		if (window.navigator.language != "ko-kr") {
+			hideEn();
+		}
+		else {
+			hideKo();
+		}
+
 	</script>
 </body>
 </html>
